@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Рёбра графа -->
+  <line x1="240" y1="150" x2="232.219" y2="186.606" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="240" y1="150" x2="210.222" y2="216.883" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="240" y1="150" x2="105" y2="227.942" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="240" y1="150" x2="77.1885" y2="202.901" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="240" y1="150" x2="61.9667" y2="168.712" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="240" y1="150" x2="77.1885" y2="97.0993" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="240" y1="150" x2="210.222" y2="83.117" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="240" y1="150" x2="232.219" y2="113.394" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="232.219" y1="186.606" x2="177.812" y2="235.595" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="232.219" y1="186.606" x2="140.592" y2="239.507" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="232.219" y1="186.606" x2="77.1885" y2="97.0993" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="210.222" y1="216.883" x2="140.592" y2="239.507" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="210.222" y1="216.883" x2="105" y2="227.942" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="210.222" y1="216.883" x2="61.9667" y2="168.712" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="210.222" y1="216.883" x2="61.9667" y2="131.288" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="210.222" y1="216.883" x2="77.1885" y2="97.0993" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="210.222" y1="216.883" x2="105" y2="72.0577" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="210.222" y1="216.883" x2="232.219" y2="113.394" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="177.812" y1="235.595" x2="140.592" y2="239.507" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="177.812" y1="235.595" x2="77.1885" y2="202.901" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="177.812" y1="235.595" x2="61.9667" y2="131.288" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="177.812" y1="235.595" x2="140.592" y2="60.493" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="140.592" y1="239.507" x2="61.9667" y2="168.712" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="140.592" y1="239.507" x2="61.9667" y2="131.288" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="140.592" y1="239.507" x2="232.219" y2="113.394" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="105" y1="227.942" x2="61.9667" y2="131.288" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="105" y1="227.942" x2="177.812" y2="64.4049" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="77.1885" y1="202.901" x2="140.592" y2="60.493" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="77.1885" y1="202.901" x2="232.219" y2="113.394" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="61.9667" y1="168.712" x2="77.1885" y2="97.0993" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="61.9667" y1="168.712" x2="140.592" y2="60.493" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="61.9667" y1="168.712" x2="210.222" y2="83.117" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="61.9667" y1="131.288" x2="77.1885" y2="97.0993" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="61.9667" y1="131.288" x2="140.592" y2="60.493" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="61.9667" y1="131.288" x2="177.812" y2="64.4049" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="61.9667" y1="131.288" x2="232.219" y2="113.394" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="77.1885" y1="97.0993" x2="105" y2="72.0577" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="77.1885" y1="97.0993" x2="140.592" y2="60.493" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="105" y1="72.0577" x2="140.592" y2="60.493" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="105" y1="72.0577" x2="177.812" y2="64.4049" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="105" y1="72.0577" x2="210.222" y2="83.117" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <line x1="177.812" y1="64.4049" x2="210.222" y2="83.117" stroke="black" stroke-width="3" stroke-opacity="1.0"/>
+  <!-- Вершины графа -->
+  <circle cx="240" cy="150" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="240" y="155" text-anchor="middle" font-size="12" font-weight="bold">0</text>
+  <circle cx="232.219" cy="186.606" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="232.219" y="191.606" text-anchor="middle" font-size="12" font-weight="bold">1</text>
+  <circle cx="210.222" cy="216.883" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="210.222" y="221.883" text-anchor="middle" font-size="12" font-weight="bold">2</text>
+  <circle cx="177.812" cy="235.595" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="177.812" y="240.595" text-anchor="middle" font-size="12" font-weight="bold">3</text>
+  <circle cx="140.592" cy="239.507" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="140.592" y="244.507" text-anchor="middle" font-size="12" font-weight="bold">4</text>
+  <circle cx="105" cy="227.942" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="105" y="232.942" text-anchor="middle" font-size="12" font-weight="bold">5</text>
+  <circle cx="77.1885" cy="202.901" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="77.1885" y="207.901" text-anchor="middle" font-size="12" font-weight="bold">6</text>
+  <circle cx="61.9667" cy="168.712" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="61.9667" y="173.712" text-anchor="middle" font-size="12" font-weight="bold">7</text>
+  <circle cx="61.9667" cy="131.288" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="61.9667" y="136.288" text-anchor="middle" font-size="12" font-weight="bold">8</text>
+  <circle cx="77.1885" cy="97.0993" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="77.1885" y="102.099" text-anchor="middle" font-size="12" font-weight="bold">9</text>
+  <circle cx="105" cy="72.0577" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="105" y="77.0577" text-anchor="middle" font-size="12" font-weight="bold">10</text>
+  <circle cx="140.592" cy="60.493" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="140.592" y="65.493" text-anchor="middle" font-size="12" font-weight="bold">11</text>
+  <circle cx="177.812" cy="64.4049" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="177.812" y="69.4049" text-anchor="middle" font-size="12" font-weight="bold">12</text>
+  <circle cx="210.222" cy="83.117" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="210.222" y="88.117" text-anchor="middle" font-size="12" font-weight="bold">13</text>
+  <circle cx="232.219" cy="113.394" r="15" fill="lightblue" stroke="black" stroke-width="2"/>
+  <text x="232.219" y="118.394" text-anchor="middle" font-size="12" font-weight="bold">14</text>
+  <text x="150" y="20" text-anchor="middle" font-size="16" font-weight="bold">Исходный граф</text>
+  <text x="150" y="40" text-anchor="middle" font-size="14">15 вершин, 42 рёбер</text>
+</svg>

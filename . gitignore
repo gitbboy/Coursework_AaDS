@@ -1,0 +1,8 @@
+#soure files
+vscode/
+
+#compilated files
+output/
+test.cpp
+*.o
+*.tmp

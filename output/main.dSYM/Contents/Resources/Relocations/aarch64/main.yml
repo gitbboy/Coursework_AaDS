@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/goshik/Documents/Developer/АиСД/Coursework_AaDS/output/main"
+relocations:     []
+...
